@@ -1,15 +1,14 @@
-![OTAUpdater Header](http://sensation-devs.org/banner/bannerotaupdate.png)
+![OTAUpdater Header](http://img.vmobi.us/logo.png)
 
 
 
-OTA Update Center
+ Vmobi Updater
 ==========
 
-      OTA Update Center is an update application for roms/devices supported by OTA Update Center.
+       Vmobi Updater is based on the [OTA Update Center](https://otaupdatecenter.pro/) and is an update application for roms/devices supported by the Team Vmobi using the OTA Update Center.
 
-Rom devs
+Vmobi Devs
 ==========
-      Do you want to use this software, go to the download section, download the latest apk.
       Add this lines to your build.prop:
           otaupdater.otaid=(write your ota id here without spaces or brackets)
           otaupdater.otaver=(write your ota version here without spaces or brackets)
@@ -31,6 +30,6 @@ Known Bugs
 
 How to Build
 ==========
-      git clone git@github.com:OTAUpdateCenter/ota-update-centre
+      $ git clone git@github.com:vmobi-jfltevzw/android_packages_apps_VmobiUpdater.git
       
-      Add to Eclipse, make your changes and export as an Android application! :D
+      Make sure your Android SDK is running API 15. Then add to Eclipse, make your changes and export as an Android application!

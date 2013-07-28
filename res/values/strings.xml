@@ -16,7 +16,7 @@
 
 <resources>
 
-    <string name="app_name">OTA Updater</string>
+    <string name="app_name">Vmobi\nUpdater</string>
     
     <string name="notif_text_rom">OTA ROM Update Available</string>
     <string name="notif_source">OTA Updater</string>
@@ -55,7 +55,7 @@
     
     <string name="toast_rename">File renamed successfully</string>
     <string name="toast_rename_error">There was a problem while renaming the selected file</string>
-    <string name="toast_delete">File deleted succesfully</string>
+    <string name="toast_delete">File deleted successfully</string>
     <string name="toast_delete_error">There was a problem while deleting the selected file</string>
     <string name="toast_prune">Old file(s) deleted successfully</string>
     <string name="toast_prune_error">There was a problem deleting one or more old files</string>
@@ -69,10 +69,10 @@
     <string name="toast_nosd_error">Your SD card is unavailable</string>
     
     <string name="about_title">About</string>
-    <string name="about_ota_title">OTA Updater</string>
+    <string name="about_ota_title">Vmobi Updater</string>
     <string name="about_ota_summary" translatable="false">https://www.otaupdatecenter.pro</string>
     <string name="about_version_title">Version</string>
-    <string name="about_version_unknown">Unkown Version (error in package manager)</string>
+    <string name="about_version_unknown">Unknown Version (error in package manager)</string>
     
     <string name="main_device_info">Device Information</string>
     <string name="main_device">Device</string>
